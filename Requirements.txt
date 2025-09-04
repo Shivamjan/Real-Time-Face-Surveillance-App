@@ -1,0 +1,12 @@
+This file lists the required Python packages for the project.
+Install them using: pip install -r requirements.txt
+opencv-python
+tensorflow
+mtcnn
+deepface
+faiss-cpu  # Use faiss-gpu if you have a compatible NVIDIA GPU
+pymysql
+python-dotenv
+bcrypt
+Pillow
+
